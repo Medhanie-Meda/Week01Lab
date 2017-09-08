@@ -18,6 +18,7 @@ public class HelloWorld {
         // TODO code application logic here
         System.out.println("Hello World!");
         System.out.println("My Next Line!");
+        System.out.println("Test for push!");
     }
     
 }
